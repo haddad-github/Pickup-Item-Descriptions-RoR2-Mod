@@ -1,0 +1,11 @@
+{
+  "name": "PickupItemDescription",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/haddad-github/Pickup-Item-Descriptions-RoR2-Mod",
+  "description": "Adds item descriptions to items before picking them up.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2113"
+  ],
+  "author": "GigaHanma",
+  "icon": "icon.png"
+}
