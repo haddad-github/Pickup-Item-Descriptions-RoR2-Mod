@@ -1,5 +1,8 @@
 # Pickup Item Description Mod
 
+## Thunderstore link
+https://thunderstore.io/package/Hanma/PickupItemDescription/
+
 ## Description
 
 Adds the item descriptions in the pickup prompt.
