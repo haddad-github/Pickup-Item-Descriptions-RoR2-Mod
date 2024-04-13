@@ -25,6 +25,8 @@ I would like to make the prompt bigger and floating on-screen in front of the it
 
 4. Run your modded instance of the game
 
+*Note: The `PickupItemDescriptionPlugin.cs` is the source code for the .dll, it is not needed. It's highly commented for educative purposes.
+
 ## Changelog
 
 ### 1.0.0
