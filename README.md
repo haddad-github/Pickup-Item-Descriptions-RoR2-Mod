@@ -1,5 +1,5 @@
 # Pickup Item Description Mod
-___
+
 ## Description
 
 Adds the item descriptions in the pickup prompt.
